@@ -3,4 +3,5 @@ This is a small component i have coded to use in my bigger projects where this c
 # How to use
 i have commented an expample of using in the .js file.
 # View
-![Capture d’écran (232)](https://github.com/GFaroukOmar/simple-editable-table/assets/113314687/82c2ff2f-4c51-4a72-8265-626c24cee2f5)
+
+![Capture d’écran (232)](https://github.com/GFaroukOmar/simple-editable-table/assets/113314687/b22408e8-676b-4c70-b5a5-92ed4de37157)
